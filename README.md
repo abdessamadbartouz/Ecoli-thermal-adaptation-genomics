@@ -172,7 +172,7 @@ If you use this repository, please cite:
 
 This repository was developed as part of the Master's degree in Health Sciences and BioTechnologies a joint program between Hassan II university and Toulouse university.
 
-Special thanks to all supervisors and researchers whose datasets, software tools, and open-source resources made this work possible.
+Special thanks to all supervisors Pr. Loubna Youssar and Pr. Mohammed Jazouli and researchers whose datasets, software tools, and open-source resources made this work possible.
 
 ---
 
