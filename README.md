@@ -33,10 +33,6 @@ The maximum temperature tolerated by the evolved population was **46.9°C**.
 
 ## Bioinformatics Workflow
 
-<p align="center">
-  <img src="Docs/workflow.png" width="900">
-</p>
-
 The analysis pipeline consists of the following major steps:
 
 ```
